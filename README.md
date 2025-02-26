@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 I’m currently working on discord bot, based on discord.py<br>🌱 I’m currently learning HTML, CSS, React<br>👨‍🎓  I'm studying at Kazan Federal University, Information System and Technologies.
+👨‍💻 I’m currently working on discord bot, based on discord.py<br>🌱 I’m currently learning HTML, CSS, React<br>👨‍🎓  I'm studying at Kazan Federal University, Information System and Technologies.<br>📧 Reach me by email johnoconer@yandex.ru
 
 
 # 💻 Tech Stack:
